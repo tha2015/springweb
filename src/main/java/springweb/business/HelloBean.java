@@ -1,4 +1,4 @@
-package springweb;
+package springweb.business;
 
 public class HelloBean {
 
